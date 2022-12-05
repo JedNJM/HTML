@@ -1,2 +1,2 @@
 # HTML
-![Mini project overview](./img)
+![Mini project overview](./img.png)
